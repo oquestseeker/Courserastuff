@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> When in the month you're the strongest! </title>
+</head>
+
+<body>
+  <header> When during your pre-menstrual cycle are you the strongest?  We have the answers! </header>
+
+  	sections
+    <h1 prompt ("Are you female?")> Please answer these questions. </h1>
+    <h2 prompt ("When was the date when your last menstruation started?") </h2>
+
+  <footer>  &cpy 2017 </footer>
+
+ </body>
+
+ </html>
+ 
+
